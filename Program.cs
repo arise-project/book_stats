@@ -6,6 +6,7 @@ namespace book_stats
     {
         static void Main(string[] args)
         {
+        	//https://nostarch.com/open-circuits
             Console.WriteLine("Hello World!");
         }
     }

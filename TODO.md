@@ -1,1 +1,1 @@
-Fast document reader for Petr
+https://obsidian.md/1.0
